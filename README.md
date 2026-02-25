@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Freinier Cardona
+# 👋 Hola, soy Freinier Cardona
 
-📍 **Location:** Neiva, Huila, Colombia  
+📍 **Ubicación:** Neiva, Huila, Colombia  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,74 +10,74 @@
 
 ---
 
-## 🧑 About Me
-I'm a learner at the **Servicio Nacional de Aprendizaje (SENA)**, pursuing a **Technologist in Software Analysis and Development**.  
-I love building technological solutions that provide value, security, and accessibility, applying best practices and critical thinking to every project.
+## 🧑 Sobre mí
+Soy aprendiz del **Servicio Nacional de Aprendizaje (SENA)**, cursando el programa de **Tecnólogo en Análisis y Desarrollo de Software**.  
+Me apasiona construir soluciones tecnológicas que aporten valor, seguridad y accesibilidad, aplicando buenas prácticas y pensamiento crítico en cada proyecto.
 
 ---
 
-## 🎯 Professional goal
-Become a **full-stack developer** capable of designing, developing, and deploying web and mobile applications, applying agile methodologies and innovative solutions to improve user experience.
+## 🎯 Objetivo profesional
+Convertirme en un **desarrollador full-stack** capaz de diseñar, desarrollar y desplegar aplicaciones web y móviles, aplicando metodologías ágiles y soluciones innovadoras para mejorar la experiencia del usuario.
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Habilidades técnicas
 
-| Area | Technologies |
-|------|--------------|
-| **Programming Languages** | Java, SQL (basic), Python |
-| **Frameworks / Libraries** | Spring Boot (basic), REST API (basic) |
-| **Databases** | MySQL, Database Design |
-| **Version Control** | Git, GitHub |
-| **Best Practices** | Error Handling, Code Documentation, Modularity & Reusability |
-| **Methodologies** | Agile Development, Collaborative Work |
-
----
-
-## 💡 Soft Skills
-
-- Problem-solving and critical thinking  
-- Effective communication and teamwork  
-- Organization and time management  
-- Creativity and innovation  
-- Adaptability and continuous learning
+| Área | Tecnologías |
+|------|-------------|
+| **Lenguajes de programación** | Java, SQL (básico), Python |
+| **Frameworks / Librerías** | Spring Boot (básico), API REST (básico) |
+| **Bases de datos** | MySQL, Diseño de bases de datos |
+| **Control de versiones** | GitHub |
+| **Buenas prácticas** | Manejo de errores, Documentación de código, Modularidad y reutilización |
+| **Metodologías** | Desarrollo ágil, Trabajo colaborativo |
 
 ---
 
-## 🚀 Current Project
+## 💡 Habilidades blandas
+
+- Resolución de problemas y pensamiento crítico  
+- Comunicación efectiva y trabajo en equipo  
+- Organización y gestión del tiempo  
+- Creatividad e innovación  
+- Adaptabilidad y aprendizaje continuo  
+
+---
+
+## 🚀 Proyecto actual
 **Alerta Mujer**  
-An application designed to provide fast and accessible assistance to women in risky situations.  
+Una aplicación diseñada para brindar asistencia rápida y accesible a mujeres en situaciones de riesgo.  
 
-**Main Features:**  
-- Accessibility and user-friendly interface  
-- API error handling and technical solutions  
-- Backend best practices  
+**Características principales:**  
+- Accesibilidad e interfaz fácil de usar  
+- Manejo de errores en API y soluciones técnicas  
+- Buenas prácticas en el backend  
 
 ![Alerta Mujer](https://img.shields.io/badge/Project-Alerta_Mujer-blueviolet?style=for-the-badge)
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 Estadísticas de GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FreinierCardona&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FreinierCardona&show_icons=true&theme=tokyonight)
 
 ---
-## 📚 Learning in Progress
-- Full-stack development: Front-end + Back-end  
-- Advanced Spring Boot and modern frameworks  
-- Advanced testing and deployment techniques  
-- API integration and external services  
-- Python programming
 
-
----
-
-## 📫 Contact
-- **Email:** [cardonafreinier@gmail.com](mailto:cardonafreinier@gmail.com)  
-- **LinkedIn:** [Freinier Cardona](https://www.linkedin.com/in/freinier-cardona)
+## 📚 Aprendiendo actualmente
+- Desarrollo full-stack: Front-end + Back-end  
+- Spring Boot avanzado y frameworks modernos  
+- Técnicas avanzadas de pruebas y despliegue  
+- Integración de APIs y servicios externos  
+- Programación en Python  
 
 ---
 
-> “Technology doesn't just build solutions; it builds the future . Learn, create, and transform your world with it.”🚀
+## 📫 Contacto
+- **Correo:** [cardonafreinier@gmail.com](mailto:cardonafreinier@gmail.com)  
+- **LinkedIn:** [Freinier Cardona](https://www.linkedin.com/in/freinier-cardona-b21b4b37b/)
+
+---
+
+> “La tecnología no solo construye soluciones; construye el futuro. Aprende, crea y transforma tu mundo con ella.” 🚀
