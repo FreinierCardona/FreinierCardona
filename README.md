@@ -1,3 +1,11 @@
+<!--
+CONFIG
+FULL_NAME: Freinier Steven Cardona Perez
+GITHUB_USER: FreinierCardona
+EMAIL: cardonafreinier@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
 # 👋 Hola, soy Freinier Cardona
 
 📍 **Ubicación:** Neiva, Huila, Colombia  
