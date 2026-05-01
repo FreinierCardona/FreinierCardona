@@ -14,15 +14,13 @@ CODE_ORGANIZATION: code-sena
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -41,9 +39,9 @@ Convertirme en un **desarrollador full-stack** capaz de diseñar, desarrollar y 
 
 | Área | Tecnologías |
 |------|-------------|
-| **Lenguajes de programación** | Java, SQL (básico), Python |
+| **Lenguajes de programación** | Java, SQL, Python |
 | **Frameworks / Librerías** | Spring Boot (básico), API REST (básico) |
-| **Bases de datos** | MySQL, Diseño de bases de datos |
+| **Bases de datos** | PostgreSQL, Diseño de bases de datos |
 | **Control de versiones** | GitHub |
 | **Buenas prácticas** | Manejo de errores, Documentación de código, Modularidad y reutilización |
 | **Metodologías** | Desarrollo ágil, Trabajo colaborativo |
@@ -86,7 +84,7 @@ Una aplicación diseñada para brindar asistencia rápida y accesible a mujeres 
 - Spring Boot avanzado y frameworks modernos  
 - Técnicas avanzadas de pruebas y despliegue  
 - Integración de APIs y servicios externos  
-- Programación en Python  
+- Uso de React y React-Native
 
 ---
 
@@ -96,4 +94,4 @@ Una aplicación diseñada para brindar asistencia rápida y accesible a mujeres 
 
 ---
 
-> “La tecnología no solo construye soluciones; construye el futuro. Aprende, crea y transforma tu mundo con ella.” 🚀
+> “La tecnología no solo construye soluciones; construye el futuro.” 🚀
