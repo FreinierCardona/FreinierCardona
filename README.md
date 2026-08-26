@@ -122,19 +122,6 @@ Proyecto académico enfocado en mejorar la gestión y organización de horarios 
 
 ---
 
-### 🔐 Microservicio IAM
-
-Microservicio orientado a la gestión de identidad, usuarios, roles y control de acceso dentro de una arquitectura distribuida.
-
-**Enfoque del proyecto:**
-
-- Backend estructurado  
-- Integración con base de datos  
-- Validación de usuarios y roles  
-- Preparación para entornos con Docker  
-
----
-
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -153,8 +140,6 @@ Microservicio orientado a la gestión de identidad, usuarios, roles y control de
 
 - Desarrollo full-stack con enfoque backend  
 - Spring Boot y arquitectura de APIs REST  
-- Despliegue de aplicaciones con Docker  
-- Integración entre frontend, backend y base de datos  
 - Pruebas, documentación y buenas prácticas de desarrollo  
 - Trabajo con microservicios y proyectos colaborativos  
 
